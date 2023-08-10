@@ -4,6 +4,6 @@ export const githubApi = axios.create({
   baseURL: "https://api.github.com/repos/facebook/react",
   headers: {
     Authorization:
-      'Bearer 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',
+      "Bearer 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",
   },
 });
